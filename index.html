@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intern Skill Gap Analysis & Training Recommendation System</title>
+  <!-- Google Fonts & Font Awesome Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+  <!-- Sidebar Navigation -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-icon">
+        <i class="fa-solid fa-brain-circuit"></i>
+      </div>
+      <div class="brand-text">
+        <h2>SkillGap.AI</h2>
+        <span>NLP & Clustering Engine</span>
+      </div>
+    </div>
+
+    <nav class="nav-menu">
+      <a href="#" class="nav-item active" data-tab="overview">
+        <i class="fa-solid fa-chart-pie"></i>
+        <span>Overview Dashboard</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="clusters">
+        <i class="fa-solid fa-diagram-project"></i>
+        <span>Industry Job Clusters</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="interns">
+        <i class="fa-solid fa-user-graduate"></i>
+        <span>Intern Gap Explorer</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="roadmaps">
+        <i class="fa-solid fa-graduation-cap"></i>
+        <span>Training Roadmaps</span>
+      </a>
+      <a href="#" class="nav-item" data-tab="playground">
+        <i class="fa-solid fa-wand-magic-sparkles"></i>
+        <span>Live Evaluator</span>
+      </a>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="model-badge">
+        <i class="fa-solid fa-microchip"></i>
+        <div>
+          <span class="badge-title">Model: TF-IDF + K-Means</span>
+          <span class="badge-sub" id="model-silhouette-tag">Silhouette: Loading...</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main Content Area -->
+  <main class="main-content">
+    <!-- Top Header Bar -->
+    <header class="top-header">
+      <div class="header-title">
+        <h1 id="page-title">Executive Skill Gap Overview</h1>
+        <p id="page-subtitle">AI-powered analytics aligning intern skillsets with real-time industry demands.</p>
+      </div>
+      <div class="header-actions">
+        <button id="btn-re-run-pipeline" class="btn btn-secondary">
+          <i class="fa-solid fa-rotate"></i> Refresh Data
+        </button>
+        <button id="btn-export-report" class="btn btn-primary">
+          <i class="fa-solid fa-download"></i> Export Full Summary
+        </button>
+      </div>
+    </header>
+
+    <!-- Global Stats KPI Bar -->
+    <section class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-icon blue"><i class="fa-solid fa-briefcase"></i></div>
+        <div class="kpi-info">
+          <span class="kpi-label">Industry Jobs Analyzed</span>
+          <h3 id="stat-jobs" class="kpi-value">--</h3>
+          <span class="kpi-sub"><i class="fa-solid fa-database"></i> 6 Domain Clusters</span>
+        </div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-icon purple"><i class="fa-solid fa-users"></i></div>
+        <div class="kpi-info">
+          <span class="kpi-label">Intern Profiles Evaluated</span>
+          <h3 id="stat-interns" class="kpi-value">--</h3>
+          <span class="kpi-sub"><i class="fa-solid fa-bullseye"></i> Targeted Roles</span>
+        </div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-icon green"><i class="fa-solid fa-chart-line"></i></div>
+        <div class="kpi-info">
+          <span class="kpi-label">Avg Readiness Score</span>
+          <h3 id="stat-readiness" class="kpi-value">--%</h3>
+          <span class="kpi-sub green-text"><i class="fa-solid fa-shield-halved"></i> Industry Benchmark</span>
+        </div>
+      </div>
+
+      <div class="kpi-card">
+        <div class="kpi-icon amber"><i class="fa-solid fa-triangle-exclamation"></i></div>
+        <div class="kpi-info">
+          <span class="kpi-label">Top Deficient Skill</span>
+          <h3 id="stat-top-gap" class="kpi-value">--</h3>
+          <span class="kpi-sub red-text" id="stat-top-gap-sub">Critical Gap</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 1: Overview Dashboard -->
+    <section id="tab-overview" class="tab-page active">
+      <div class="dashboard-grid">
+        <!-- Cluster Job Distribution Chart Card -->
+        <div class="card col-6">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-chart-pie"></i> Industry Demand by Role Cluster</h3>
+            <span class="card-subtitle">Job count distribution across discovered K-Means clusters</span>
+          </div>
+          <div class="card-body chart-box">
+            <canvas id="overviewClusterChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Top Skill Deficiencies Bar Chart Card -->
+        <div class="card col-6">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-bars-staggered"></i> Most Common Intern Skill Gaps</h3>
+            <span class="card-subtitle">Number of interns lacking critical benchmark skills</span>
+          </div>
+          <div class="card-body chart-box">
+            <canvas id="overviewDeficienciesChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Key Clusters Summary List -->
+        <div class="card col-12">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-cubes"></i> Discovered Industry Role Clusters & TF-IDF Keywords</h3>
+            <span class="card-subtitle">Latent role groupings mined via TF-IDF vectorization of 100+ job descriptions</span>
+          </div>
+          <div class="card-body">
+            <div id="clusters-cards-grid" class="cluster-summary-grid">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 2: Industry Job Clusters (2D PCA Visualization) -->
+    <section id="tab-clusters" class="tab-page">
+      <div class="clusters-layout">
+        <div class="card col-8">
+          <div class="card-header flex-between">
+            <div>
+              <h3><i class="fa-solid fa-chart-scatter"></i> 2D PCA Cluster Map (TF-IDF Space)</h3>
+              <span class="card-subtitle">2D projection of job description vectors and K-Means cluster centroids</span>
+            </div>
+            <div class="chart-legend-pills" id="cluster-legend-pills">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+          <div class="card-body chart-box-large">
+            <canvas id="clustersScatterChart"></canvas>
+          </div>
+        </div>
+
+        <div class="card col-4">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-circle-info"></i> Cluster Deep Dive</h3>
+            <span class="card-subtitle">Select a cluster to view detailed keyword weights</span>
+          </div>
+          <div class="card-body">
+            <div class="form-group">
+              <label for="select-cluster-deepdive">Select Cluster:</label>
+              <select id="select-cluster-deepdive" class="form-control">
+                <!-- Dynamically populated -->
+              </select>
+            </div>
+            <div id="cluster-detail-box" class="cluster-detail-container">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 3: Intern Gap Explorer -->
+    <section id="tab-interns" class="tab-page">
+      <div class="interns-layout">
+        <!-- Intern Selection List Panel -->
+        <div class="card col-4">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-users"></i> Intern Roster</h3>
+            <span class="card-subtitle">Search and filter intern database</span>
+          </div>
+          <div class="card-body">
+            <div class="filter-box">
+              <input type="text" id="intern-search-input" class="form-control" placeholder="Search by name or skill...">
+              <select id="intern-domain-filter" class="form-control">
+                <option value="ALL">All Target Domains</option>
+              </select>
+            </div>
+            <div id="intern-list-container" class="intern-list-scroll">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Selected Intern Gap Analysis Card -->
+        <div class="card col-8">
+          <div class="card-header flex-between" id="selected-intern-header">
+            <div>
+              <h3 id="intern-detail-name">Select an Intern</h3>
+              <span class="card-subtitle" id="intern-detail-meta">Click any intern on the left roster to view skill gap breakdown</span>
+            </div>
+            <div class="readiness-badge" id="intern-detail-readiness-badge">
+              <span>Readiness</span>
+              <strong id="intern-detail-score">--%</strong>
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="intern-analysis-grid">
+              <!-- Radar Chart Card -->
+              <div class="radar-box-card">
+                <h4><i class="fa-solid fa-chart-radar"></i> Intern Skills vs. Industry Benchmark</h4>
+                <div class="chart-box-radar">
+                  <canvas id="internRadarChart"></canvas>
+                </div>
+              </div>
+
+              <!-- Gaps Breakdown Card -->
+              <div class="gaps-box-card">
+                <h4><i class="fa-solid fa-triangle-exclamation"></i> Critical Skill Deficiencies</h4>
+                <div class="gaps-list" id="intern-gaps-list">
+                  <!-- Dynamically populated -->
+                </div>
+
+                <div class="action-btn-row">
+                  <button id="btn-view-intern-roadmap" class="btn btn-primary btn-block">
+                    <i class="fa-solid fa-graduation-cap"></i> View Personalized Training Plan
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 4: Training Roadmaps -->
+    <section id="tab-roadmaps" class="tab-page">
+      <div class="roadmap-layout">
+        <div class="card col-12">
+          <div class="card-header flex-between">
+            <div>
+              <h3 id="roadmap-intern-title"><i class="fa-solid fa-graduation-cap"></i> Tailored Learning Roadmap</h3>
+              <span class="card-subtitle" id="roadmap-intern-sub">Targeted skill remediation and hands-on project path</span>
+            </div>
+            <div class="roadmap-meta-pills" id="roadmap-meta-pills">
+              <!-- Dynamically populated -->
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="timeline-container" id="timeline-steps-container">
+              <!-- Step cards dynamically populated -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tab 5: Live Resume & Skill Evaluator Playground -->
+    <section id="tab-playground" class="tab-page">
+      <div class="playground-layout">
+        <div class="card col-5">
+          <div class="card-header">
+            <h3><i class="fa-solid fa-wand-magic-sparkles"></i> Custom Resume / Skill Evaluator</h3>
+            <span class="card-subtitle">Paste candidate resume summary or skill list for instant TF-IDF gap analysis</span>
+          </div>
+          <div class="card-body">
+            <form id="playground-form">
+              <div class="form-group">
+                <label for="pg-candidate-name">Candidate Name:</label>
+                <input type="text" id="pg-candidate-name" class="form-control" value="Jane Doe (Custom Candidate)">
+              </div>
+              <div class="form-group">
+                <label for="pg-target-domain">Target Industry Domain:</label>
+                <select id="pg-target-domain" class="form-control">
+                  <option value="Data Science & Machine Learning">Data Science & Machine Learning</option>
+                  <option value="Full-Stack Web Engineering" selected>Full-Stack Web Engineering</option>
+                  <option value="Cloud & DevOps Infrastructure">Cloud & DevOps Infrastructure</option>
+                  <option value="Mobile Application Development">Mobile Application Development</option>
+                  <option value="Cyber Security & InfoSec">Cyber Security & InfoSec</option>
+                  <option value="Data & Analytics Engineering">Data & Analytics Engineering</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="pg-resume-text">Resume / Skills Text:</label>
+                <textarea id="pg-resume-text" class="form-control" rows="7" placeholder="Paste candidate resume summary, skills, or experience here... e.g. Experienced with JavaScript, HTML, CSS, Git, basic Python. Looking to learn React and Node.js."></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">
+                <i class="fa-solid fa-bolt"></i> Evaluate Skill Gaps & Generate Roadmap
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <div class="card col-7">
+          <div class="card-header flex-between">
+            <div>
+              <h3><i class="fa-solid fa-square-poll-vertical"></i> Instant Gap Analysis Output</h3>
+              <span class="card-subtitle">TF-IDF vector matching against target domain benchmark</span>
+            </div>
+            <div class="readiness-badge" id="pg-readiness-badge">
+              <span>Readiness</span>
+              <strong id="pg-readiness-score">--%</strong>
+            </div>
+          </div>
+          <div class="card-body">
+            <div id="pg-placeholder" class="placeholder-msg">
+              <i class="fa-solid fa-laptop-code"></i>
+              <p>Enter text on the left and click <strong>Evaluate Skill Gaps</strong> to run dynamic NLP analysis.</p>
+            </div>
+            <div id="pg-results-container" class="pg-results-grid hidden">
+              <div class="radar-box-card">
+                <h4><i class="fa-solid fa-chart-radar"></i> Skill Gap Radar</h4>
+                <div class="chart-box-radar">
+                  <canvas id="playgroundRadarChart"></canvas>
+                </div>
+              </div>
+              <div class="gaps-box-card">
+                <h4><i class="fa-solid fa-list-check"></i> Recommended Training Modules</h4>
+                <div id="pg-recommendations-list" class="gaps-list"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- JS Logic -->
+  <script src="app.js"></script>
+</body>
+</html>

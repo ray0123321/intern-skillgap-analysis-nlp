@@ -1,0 +1,1591 @@
+[
+  {
+    "job_id": "JOB_001",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Node.js",
+      "Jest",
+      "TypeScript",
+      "JavaScript",
+      "REST API",
+      "GraphQL",
+      "Express"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: Node.js, Jest, TypeScript, JavaScript, REST API, GraphQL, Express. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_002",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Node.js",
+      "REST API",
+      "GraphQL",
+      "React",
+      "Docker",
+      "Jest"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: Node.js, REST API, GraphQL, React, Docker, Jest. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_003",
+    "title": "React Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Jest",
+      "React",
+      "TypeScript",
+      "CSS3",
+      "HTML5",
+      "Express",
+      "JavaScript"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "React Developer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: Jest, React, TypeScript, CSS3, HTML5, Express, JavaScript. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_004",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "JavaScript",
+      "HTML5",
+      "Docker",
+      "GraphQL",
+      "Express",
+      "React",
+      "Git",
+      "Node.js"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: JavaScript, HTML5, Docker, GraphQL, Express, React, Git, Node.js. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_005",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Git",
+      "GraphQL",
+      "HTML5",
+      "Docker",
+      "Node.js",
+      "JavaScript",
+      "React"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Frontend Developer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: Git, GraphQL, HTML5, Docker, Node.js, JavaScript, React. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_006",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "CSS3",
+      "Express",
+      "PostgreSQL",
+      "HTML5",
+      "TypeScript"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: CSS3, Express, PostgreSQL, HTML5, TypeScript. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_007",
+    "title": "Backend Engineer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Docker",
+      "Git",
+      "Jest",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "GraphQL"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Backend Engineer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: Docker, Git, Jest, JavaScript, TypeScript, Node.js, GraphQL. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_008",
+    "title": "Full Stack Engineer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Git",
+      "HTML5",
+      "React",
+      "Node.js",
+      "Jest",
+      "Docker"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Full Stack Engineer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: Git, HTML5, React, Node.js, Jest, Docker. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_009",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Node.js",
+      "Git",
+      "PostgreSQL",
+      "CSS3",
+      "Docker",
+      "TypeScript",
+      "REST API"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: Node.js, Git, PostgreSQL, CSS3, Docker, TypeScript, REST API. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_010",
+    "title": "Node.js Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Docker",
+      "GraphQL",
+      "CSS3",
+      "Jest",
+      "Git",
+      "HTML5",
+      "JavaScript"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Node.js Developer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: Docker, GraphQL, CSS3, Jest, Git, HTML5, JavaScript. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_011",
+    "title": "React Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "Docker",
+      "CSS3"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "React Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: JavaScript, TypeScript, Git, Docker, CSS3. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_012",
+    "title": "React Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "REST API",
+      "Express",
+      "Jest",
+      "React",
+      "JavaScript",
+      "Docker",
+      "CSS3",
+      "HTML5"
+    ],
+    "experience_level": "Internship",
+    "description_text": "React Developer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: REST API, Express, Jest, React, JavaScript, Docker, CSS3, HTML5. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_013",
+    "title": "Full Stack Engineer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "PostgreSQL",
+      "React",
+      "Express",
+      "REST API",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Full Stack Engineer Role: Seeking a Full Stack Engineer proficient in JavaScript/TypeScript ecosystem. You will develop modern web applications using React on the frontend and Express/Node.js on the backend, alongside CI/CD workflows and automated testing. Key required skills: PostgreSQL, React, Express, REST API, TypeScript, JavaScript. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_014",
+    "title": "Node.js Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "TypeScript",
+      "HTML5",
+      "Jest",
+      "REST API",
+      "GraphQL",
+      "React"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Node.js Developer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: TypeScript, HTML5, Jest, REST API, GraphQL, React. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_015",
+    "title": "Frontend Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Jest",
+      "Express",
+      "Node.js",
+      "React",
+      "Git",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Frontend Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: Jest, Express, Node.js, React, Git, JavaScript, GraphQL. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_016",
+    "title": "Node.js Developer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "Git",
+      "PostgreSQL",
+      "REST API",
+      "TypeScript",
+      "Express",
+      "CSS3"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Node.js Developer Role: Responsible for building responsive web interfaces with React, managing Node.js backend services, designing RESTful APIs, and implementing database queries in PostgreSQL. Experience with TypeScript and Docker is preferred. Key required skills: Git, PostgreSQL, REST API, TypeScript, Express, CSS3. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_017",
+    "title": "Backend Engineer",
+    "domain_category": "Full-Stack Web Engineering",
+    "skills": [
+      "CSS3",
+      "Git",
+      "Docker",
+      "HTML5",
+      "PostgreSQL",
+      "REST API",
+      "React"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Backend Engineer Role: Join our web team to write clean frontend HTML5/CSS3/React components and optimize backend Node.js microservices. Deep understanding of state management, REST APIs, and database design required. Key required skills: CSS3, Git, Docker, HTML5, PostgreSQL, REST API, React. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_018",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "SQL",
+      "Deep Learning",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Feature Engineering"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Machine Learning Engineer Role: Looking for a Data Scientist to build predictive ML algorithms, evaluate clustering models, analyze large datasets with SQL and Pandas, and present insights via interactive data visualizations. Key required skills: SQL, Deep Learning, Scikit-Learn, Matplotlib, Feature Engineering. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_019",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Python",
+      "NumPy",
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-Learn"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Machine Learning Engineer Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: Python, NumPy, PyTorch, Deep Learning, Scikit-Learn. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_020",
+    "title": "AI Researcher",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Data Visualization",
+      "SQL",
+      "Matplotlib",
+      "Machine Learning",
+      "Scikit-Learn",
+      "Feature Engineering"
+    ],
+    "experience_level": "Internship",
+    "description_text": "AI Researcher Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: Data Visualization, SQL, Matplotlib, Machine Learning, Scikit-Learn, Feature Engineering. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_021",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "NumPy",
+      "NLP",
+      "Data Visualization",
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-Learn"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Machine Learning Engineer Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: NumPy, NLP, Data Visualization, Machine Learning, Python, PyTorch, Deep Learning, Scikit-Learn. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_022",
+    "title": "Data Scientist",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "TensorFlow",
+      "NLP",
+      "Feature Engineering",
+      "Pandas"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Data Scientist Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: Deep Learning, Machine Learning, TensorFlow, NLP, Feature Engineering, Pandas. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_023",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Python",
+      "Feature Engineering",
+      "Deep Learning",
+      "Matplotlib",
+      "PyTorch"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Machine Learning Engineer Role: Looking for a Data Scientist to build predictive ML algorithms, evaluate clustering models, analyze large datasets with SQL and Pandas, and present insights via interactive data visualizations. Key required skills: Python, Feature Engineering, Deep Learning, Matplotlib, PyTorch. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_024",
+    "title": "AI Researcher",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Scikit-Learn",
+      "NLP",
+      "Python",
+      "TensorFlow",
+      "Data Visualization",
+      "Feature Engineering",
+      "Matplotlib",
+      "SQL"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "AI Researcher Role: Looking for a Data Scientist to build predictive ML algorithms, evaluate clustering models, analyze large datasets with SQL and Pandas, and present insights via interactive data visualizations. Key required skills: Scikit-Learn, NLP, Python, TensorFlow, Data Visualization, Feature Engineering, Matplotlib, SQL. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_025",
+    "title": "AI Researcher",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "TensorFlow",
+      "Scikit-Learn",
+      "Pandas",
+      "Data Visualization",
+      "Python",
+      "Deep Learning",
+      "NumPy",
+      "Matplotlib"
+    ],
+    "experience_level": "Internship",
+    "description_text": "AI Researcher Role: Develop state-of-the-art NLP pipelines and deep learning solutions using PyTorch/TensorFlow. Must have strong foundational knowledge in mathematics, statistical inference, and Scikit-Learn. Key required skills: TensorFlow, Scikit-Learn, Pandas, Data Visualization, Python, Deep Learning, NumPy, Matplotlib. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_026",
+    "title": "Data Analyst",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Feature Engineering",
+      "Data Visualization"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Data Analyst Role: Looking for a Data Scientist to build predictive ML algorithms, evaluate clustering models, analyze large datasets with SQL and Pandas, and present insights via interactive data visualizations. Key required skills: Python, Deep Learning, PyTorch, TensorFlow, Feature Engineering, Data Visualization. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_027",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "SQL",
+      "Matplotlib",
+      "Python",
+      "Data Visualization",
+      "PyTorch",
+      "NLP"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Machine Learning Engineer Role: Develop state-of-the-art NLP pipelines and deep learning solutions using PyTorch/TensorFlow. Must have strong foundational knowledge in mathematics, statistical inference, and Scikit-Learn. Key required skills: SQL, Matplotlib, Python, Data Visualization, PyTorch, NLP. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_028",
+    "title": "Data Scientist",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Scikit-Learn",
+      "Pandas",
+      "NLP",
+      "TensorFlow",
+      "Data Visualization",
+      "Machine Learning",
+      "SQL"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Data Scientist Role: Develop state-of-the-art NLP pipelines and deep learning solutions using PyTorch/TensorFlow. Must have strong foundational knowledge in mathematics, statistical inference, and Scikit-Learn. Key required skills: Scikit-Learn, Pandas, NLP, TensorFlow, Data Visualization, Machine Learning, SQL. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_029",
+    "title": "AI Researcher",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "PyTorch",
+      "Deep Learning",
+      "Scikit-Learn",
+      "Data Visualization",
+      "Pandas"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "AI Researcher Role: Develop state-of-the-art NLP pipelines and deep learning solutions using PyTorch/TensorFlow. Must have strong foundational knowledge in mathematics, statistical inference, and Scikit-Learn. Key required skills: PyTorch, Deep Learning, Scikit-Learn, Data Visualization, Pandas. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_030",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Pandas",
+      "TensorFlow",
+      "Machine Learning",
+      "Deep Learning",
+      "Matplotlib",
+      "Python",
+      "NumPy"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Machine Learning Engineer Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: Pandas, TensorFlow, Machine Learning, Deep Learning, Matplotlib, Python, NumPy. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_031",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "PyTorch",
+      "Matplotlib",
+      "Deep Learning",
+      "TensorFlow",
+      "Pandas",
+      "Feature Engineering",
+      "Machine Learning"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Machine Learning Engineer Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: PyTorch, Matplotlib, Deep Learning, TensorFlow, Pandas, Feature Engineering, Machine Learning. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_032",
+    "title": "NLP Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Deep Learning",
+      "Machine Learning",
+      "Pandas",
+      "Python",
+      "PyTorch",
+      "NLP",
+      "Data Visualization"
+    ],
+    "experience_level": "Internship",
+    "description_text": "NLP Engineer Role: Designing and training machine learning models using Python, Scikit-Learn, and PyTorch. Tasks include feature extraction, natural language processing (NLP), statistical modeling, and data analysis using Pandas and NumPy. Key required skills: Deep Learning, Machine Learning, Pandas, Python, PyTorch, NLP, Data Visualization. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_033",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Feature Engineering",
+      "Pandas",
+      "TensorFlow",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Machine Learning Engineer Role: Looking for a Data Scientist to build predictive ML algorithms, evaluate clustering models, analyze large datasets with SQL and Pandas, and present insights via interactive data visualizations. Key required skills: Feature Engineering, Pandas, TensorFlow, Machine Learning, Deep Learning, NLP. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_034",
+    "title": "Machine Learning Engineer",
+    "domain_category": "Data Science & Machine Learning",
+    "skills": [
+      "Deep Learning",
+      "Python",
+      "NumPy",
+      "SQL",
+      "Matplotlib",
+      "TensorFlow"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Machine Learning Engineer Role: Develop state-of-the-art NLP pipelines and deep learning solutions using PyTorch/TensorFlow. Must have strong foundational knowledge in mathematics, statistical inference, and Scikit-Learn. Key required skills: Deep Learning, Python, NumPy, SQL, Matplotlib, TensorFlow. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_035",
+    "title": "DevOps Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Terraform",
+      "CloudWatch",
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ],
+    "experience_level": "Junior",
+    "description_text": "DevOps Engineer Role: Seeking a DevOps Engineer experienced in cloud architecture, infrastructure as code (IaC), container orchestration with Kubernetes, and continuous deployment workflows. Key required skills: AWS, Linux, Terraform, CloudWatch, Kubernetes, Docker, CI/CD. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_036",
+    "title": "Cloud Infrastructure Specialist",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Docker",
+      "Python",
+      "AWS",
+      "Networking",
+      "Linux",
+      "Prometheus"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Cloud Infrastructure Specialist Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Docker, Python, AWS, Networking, Linux, Prometheus. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_037",
+    "title": "Cloud Infrastructure Specialist",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Networking",
+      "Kubernetes",
+      "Python",
+      "AWS",
+      "Bash",
+      "Prometheus"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Cloud Infrastructure Specialist Role: Seeking a DevOps Engineer experienced in cloud architecture, infrastructure as code (IaC), container orchestration with Kubernetes, and continuous deployment workflows. Key required skills: Networking, Kubernetes, Python, AWS, Bash, Prometheus. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_038",
+    "title": "Site Reliability Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Terraform",
+      "AWS",
+      "Networking",
+      "Python",
+      "Linux",
+      "Docker"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Site Reliability Engineer Role: Seeking a DevOps Engineer experienced in cloud architecture, infrastructure as code (IaC), container orchestration with Kubernetes, and continuous deployment workflows. Key required skills: Terraform, AWS, Networking, Python, Linux, Docker. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_039",
+    "title": "Site Reliability Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Prometheus",
+      "Ansible",
+      "Linux",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Bash",
+      "CI/CD"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Site Reliability Engineer Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Prometheus, Ansible, Linux, AWS, Kubernetes, Docker, Bash, CI/CD. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_040",
+    "title": "DevOps Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Python",
+      "Ansible",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Bash"
+    ],
+    "experience_level": "Internship",
+    "description_text": "DevOps Engineer Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Linux, Networking, Python, Ansible, Kubernetes, Terraform, CI/CD, Bash. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_041",
+    "title": "System Administrator",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Linux",
+      "Python",
+      "Kubernetes",
+      "Networking",
+      "Ansible",
+      "Bash"
+    ],
+    "experience_level": "Junior",
+    "description_text": "System Administrator Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Linux, Python, Kubernetes, Networking, Ansible, Bash. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_042",
+    "title": "Site Reliability Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Prometheus",
+      "Python",
+      "Linux",
+      "Networking",
+      "CI/CD",
+      "Bash",
+      "Kubernetes"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Site Reliability Engineer Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Prometheus, Python, Linux, Networking, CI/CD, Bash, Kubernetes. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_043",
+    "title": "System Administrator",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "CloudWatch",
+      "Networking",
+      "CI/CD",
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "experience_level": "Internship",
+    "description_text": "System Administrator Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: CloudWatch, Networking, CI/CD, Python, AWS, Docker. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_044",
+    "title": "System Administrator",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Bash",
+      "Networking",
+      "Prometheus",
+      "Terraform",
+      "CloudWatch",
+      "Python",
+      "Linux"
+    ],
+    "experience_level": "Junior",
+    "description_text": "System Administrator Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Bash, Networking, Prometheus, Terraform, CloudWatch, Python, Linux. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_045",
+    "title": "DevOps Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Prometheus",
+      "Ansible",
+      "Networking",
+      "AWS"
+    ],
+    "experience_level": "Internship",
+    "description_text": "DevOps Engineer Role: Seeking a DevOps Engineer experienced in cloud architecture, infrastructure as code (IaC), container orchestration with Kubernetes, and continuous deployment workflows. Key required skills: Kubernetes, Terraform, CI/CD, Prometheus, Ansible, Networking, AWS. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_046",
+    "title": "System Administrator",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Bash",
+      "Python",
+      "CloudWatch",
+      "Terraform",
+      "Prometheus"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "System Administrator Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Bash, Python, CloudWatch, Terraform, Prometheus. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_047",
+    "title": "Cloud Infrastructure Specialist",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Kubernetes",
+      "Python",
+      "Terraform",
+      "Docker",
+      "Bash"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Cloud Infrastructure Specialist Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Kubernetes, Python, Terraform, Docker, Bash. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_048",
+    "title": "Cloud Infrastructure Specialist",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Docker",
+      "Bash",
+      "Ansible",
+      "CloudWatch",
+      "Linux",
+      "Python",
+      "Terraform",
+      "CI/CD"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Cloud Infrastructure Specialist Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Docker, Bash, Ansible, CloudWatch, Linux, Python, Terraform, CI/CD. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_049",
+    "title": "System Administrator",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Bash",
+      "CI/CD",
+      "Terraform",
+      "Prometheus",
+      "Networking",
+      "Linux",
+      "Kubernetes",
+      "Docker"
+    ],
+    "experience_level": "Internship",
+    "description_text": "System Administrator Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Bash, CI/CD, Terraform, Prometheus, Networking, Linux, Kubernetes, Docker. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_050",
+    "title": "Site Reliability Engineer",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Ansible",
+      "Kubernetes",
+      "Docker",
+      "CloudWatch",
+      "Python"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Site Reliability Engineer Role: Automate cloud deployments on AWS using Kubernetes, Terraform, and Docker containers. Maintain CI/CD pipelines, optimize server infrastructure, and write operational automation scripts in Python/Bash. Key required skills: Linux, Networking, Ansible, Kubernetes, Docker, CloudWatch, Python. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_051",
+    "title": "Cloud Infrastructure Specialist",
+    "domain_category": "Cloud & DevOps Infrastructure",
+    "skills": [
+      "Kubernetes",
+      "Python",
+      "Prometheus",
+      "Linux",
+      "Bash",
+      "Terraform"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Cloud Infrastructure Specialist Role: Manage cloud infrastructure reliability, configure Linux servers, implement monitoring tools like Prometheus and CloudWatch, and secure network gateways. Key required skills: Kubernetes, Python, Prometheus, Linux, Bash, Terraform. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_052",
+    "title": "Android Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Mobile UI/UX",
+      "iOS",
+      "Android",
+      "React Native",
+      "TypeScript"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Android Engineer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Mobile UI/UX, iOS, Android, React Native, TypeScript. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_053",
+    "title": "Android Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Android",
+      "Kotlin",
+      "JavaScript",
+      "iOS",
+      "Redux",
+      "React Native"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Android Engineer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: Android, Kotlin, JavaScript, iOS, Redux, React Native. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_054",
+    "title": "Android Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Android",
+      "Swift",
+      "Mobile UI/UX",
+      "REST API",
+      "React Native",
+      "Kotlin"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Android Engineer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: Android, Swift, Mobile UI/UX, REST API, React Native, Kotlin. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_055",
+    "title": "Android Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Swift",
+      "React Native",
+      "JavaScript",
+      "iOS",
+      "TypeScript",
+      "Flutter",
+      "Kotlin",
+      "Redux"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Android Engineer Role: Build cross-platform mobile apps using React Native or Flutter. Integrate with RESTful microservices, optimize UI responsiveness, and manage app store release lifecycles for iOS and Android. Key required skills: Swift, React Native, JavaScript, iOS, TypeScript, Flutter, Kotlin, Redux. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_056",
+    "title": "iOS Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Flutter",
+      "Android",
+      "React Native",
+      "REST API",
+      "Mobile UI/UX",
+      "Swift",
+      "Redux"
+    ],
+    "experience_level": "Junior",
+    "description_text": "iOS Engineer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Flutter, Android, React Native, REST API, Mobile UI/UX, Swift, Redux. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_057",
+    "title": "Mobile App Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Kotlin",
+      "React Native",
+      "Mobile UI/UX",
+      "Swift",
+      "Redux",
+      "Flutter"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Mobile App Developer Role: Build cross-platform mobile apps using React Native or Flutter. Integrate with RESTful microservices, optimize UI responsiveness, and manage app store release lifecycles for iOS and Android. Key required skills: Kotlin, React Native, Mobile UI/UX, Swift, Redux, Flutter. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_058",
+    "title": "Mobile App Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Android",
+      "JavaScript",
+      "TypeScript",
+      "Swift",
+      "Flutter",
+      "iOS"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Mobile App Developer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: Android, JavaScript, TypeScript, Swift, Flutter, iOS. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_059",
+    "title": "Mobile App Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "JavaScript",
+      "Mobile UI/UX",
+      "iOS",
+      "Firebase",
+      "Kotlin"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Mobile App Developer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: JavaScript, Mobile UI/UX, iOS, Firebase, Kotlin. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_060",
+    "title": "React Native Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Firebase",
+      "Mobile UI/UX",
+      "Flutter",
+      "React Native",
+      "TypeScript",
+      "JavaScript",
+      "Kotlin"
+    ],
+    "experience_level": "Internship",
+    "description_text": "React Native Developer Role: Build cross-platform mobile apps using React Native or Flutter. Integrate with RESTful microservices, optimize UI responsiveness, and manage app store release lifecycles for iOS and Android. Key required skills: Firebase, Mobile UI/UX, Flutter, React Native, TypeScript, JavaScript, Kotlin. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_061",
+    "title": "Flutter Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "React Native",
+      "iOS",
+      "Android",
+      "Flutter",
+      "Firebase",
+      "Swift",
+      "TypeScript"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Flutter Developer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: React Native, iOS, Android, Flutter, Firebase, Swift, TypeScript. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_062",
+    "title": "React Native Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Redux",
+      "REST API",
+      "JavaScript",
+      "Firebase",
+      "Android",
+      "Kotlin"
+    ],
+    "experience_level": "Junior",
+    "description_text": "React Native Developer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Redux, REST API, JavaScript, Firebase, Android, Kotlin. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_063",
+    "title": "Flutter Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Kotlin",
+      "Flutter",
+      "JavaScript",
+      "Android",
+      "Redux",
+      "iOS",
+      "REST API"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Flutter Developer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Kotlin, Flutter, JavaScript, Android, Redux, iOS, REST API. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_064",
+    "title": "Mobile App Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Swift",
+      "Android",
+      "Kotlin",
+      "TypeScript",
+      "JavaScript",
+      "Redux",
+      "iOS"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Mobile App Developer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Swift, Android, Kotlin, TypeScript, JavaScript, Redux, iOS. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_065",
+    "title": "Mobile App Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Flutter",
+      "Kotlin",
+      "iOS",
+      "Android",
+      "Firebase",
+      "TypeScript"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Mobile App Developer Role: Develop high-performance mobile features with Flutter/Dart, implement modern UI/UX design components, and perform local caching with SQLite or Firebase. Key required skills: Flutter, Kotlin, iOS, Android, Firebase, TypeScript. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_066",
+    "title": "Android Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Flutter",
+      "JavaScript",
+      "Kotlin",
+      "iOS",
+      "Mobile UI/UX"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Android Engineer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: Flutter, JavaScript, Kotlin, iOS, Mobile UI/UX. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_067",
+    "title": "Flutter Developer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "REST API",
+      "Redux",
+      "TypeScript",
+      "iOS",
+      "Mobile UI/UX",
+      "Swift",
+      "Android",
+      "Kotlin"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Flutter Developer Role: Mobile developer needed for creating intuitive native or cross-platform smartphone applications. Expertise in React Native, Swift/Kotlin, state management, and mobile push notifications required. Key required skills: REST API, Redux, TypeScript, iOS, Mobile UI/UX, Swift, Android, Kotlin. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_068",
+    "title": "iOS Engineer",
+    "domain_category": "Mobile Application Development",
+    "skills": [
+      "Redux",
+      "Kotlin",
+      "TypeScript",
+      "Flutter",
+      "Swift"
+    ],
+    "experience_level": "Internship",
+    "description_text": "iOS Engineer Role: Build cross-platform mobile apps using React Native or Flutter. Integrate with RESTful microservices, optimize UI responsiveness, and manage app store release lifecycles for iOS and Android. Key required skills: Redux, Kotlin, TypeScript, Flutter, Swift. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_069",
+    "title": "SOC Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Penetration Testing",
+      "Python",
+      "Linux",
+      "Vulnerability Assessment",
+      "Network Security",
+      "Firewalls",
+      "Metasploit"
+    ],
+    "experience_level": "Junior",
+    "description_text": "SOC Analyst Role: Protect corporate digital assets by conducting security audits, configuring firewalls, implementing cryptographic standards, and performing ethical hacking exercises on web/cloud infrastructure. Key required skills: Penetration Testing, Python, Linux, Vulnerability Assessment, Network Security, Firewalls, Metasploit. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_070",
+    "title": "Penetration Tester",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Cyber Security",
+      "SIEM",
+      "Linux",
+      "Network Security",
+      "Wireshark"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Penetration Tester Role: Protect corporate digital assets by conducting security audits, configuring firewalls, implementing cryptographic standards, and performing ethical hacking exercises on web/cloud infrastructure. Key required skills: Cyber Security, SIEM, Linux, Network Security, Wireshark. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_071",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Cryptography",
+      "Firewalls",
+      "Vulnerability Assessment",
+      "Wireshark",
+      "Penetration Testing",
+      "Cyber Security",
+      "Network Security"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Security Analyst Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Cryptography, Firewalls, Vulnerability Assessment, Wireshark, Penetration Testing, Cyber Security, Network Security. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_072",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Penetration Testing",
+      "Vulnerability Assessment",
+      "Cyber Security",
+      "Network Security",
+      "Firewalls",
+      "Linux",
+      "Cryptography",
+      "SIEM"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Security Analyst Role: Protect corporate digital assets by conducting security audits, configuring firewalls, implementing cryptographic standards, and performing ethical hacking exercises on web/cloud infrastructure. Key required skills: Penetration Testing, Vulnerability Assessment, Cyber Security, Network Security, Firewalls, Linux, Cryptography, SIEM. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_073",
+    "title": "SOC Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "SIEM",
+      "Metasploit",
+      "Cryptography",
+      "Firewalls",
+      "Network Security",
+      "Linux"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "SOC Analyst Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: SIEM, Metasploit, Cryptography, Firewalls, Network Security, Linux. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_074",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Python",
+      "Firewalls",
+      "Linux",
+      "Penetration Testing",
+      "Cryptography"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Security Analyst Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Python, Firewalls, Linux, Penetration Testing, Cryptography. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_075",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Metasploit",
+      "Cryptography",
+      "Vulnerability Assessment",
+      "Linux",
+      "Cyber Security"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Security Analyst Role: Perform vulnerability assessments, penetration testing, and network security audits. Analyze threats using SIEM tools, investigate security logs with Wireshark, and write automation scripts in Python. Key required skills: Metasploit, Cryptography, Vulnerability Assessment, Linux, Cyber Security. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_076",
+    "title": "Information Security Engineer",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Penetration Testing",
+      "Python",
+      "Linux",
+      "Vulnerability Assessment",
+      "Cryptography",
+      "Cyber Security",
+      "SIEM",
+      "Firewalls"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Information Security Engineer Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Penetration Testing, Python, Linux, Vulnerability Assessment, Cryptography, Cyber Security, SIEM, Firewalls. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_077",
+    "title": "Penetration Tester",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Vulnerability Assessment",
+      "Cryptography",
+      "Cyber Security"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Penetration Tester Role: Perform vulnerability assessments, penetration testing, and network security audits. Analyze threats using SIEM tools, investigate security logs with Wireshark, and write automation scripts in Python. Key required skills: Network Security, Linux, Vulnerability Assessment, Cryptography, Cyber Security. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_078",
+    "title": "Information Security Engineer",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Linux",
+      "SIEM",
+      "Vulnerability Assessment",
+      "Cryptography",
+      "Python",
+      "Cyber Security",
+      "Firewalls",
+      "Wireshark"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Information Security Engineer Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Linux, SIEM, Vulnerability Assessment, Cryptography, Python, Cyber Security, Firewalls, Wireshark. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_079",
+    "title": "Information Security Engineer",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Cyber Security",
+      "Penetration Testing",
+      "Python",
+      "Firewalls",
+      "Metasploit",
+      "Wireshark",
+      "Network Security"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Information Security Engineer Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Cyber Security, Penetration Testing, Python, Firewalls, Metasploit, Wireshark, Network Security. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_080",
+    "title": "SOC Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Linux",
+      "Network Security",
+      "Metasploit",
+      "Cryptography",
+      "Cyber Security",
+      "Python",
+      "Vulnerability Assessment",
+      "Wireshark"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "SOC Analyst Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Linux, Network Security, Metasploit, Cryptography, Cyber Security, Python, Vulnerability Assessment, Wireshark. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_081",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Metasploit",
+      "Cryptography",
+      "Linux",
+      "Firewalls",
+      "Vulnerability Assessment",
+      "SIEM",
+      "Cyber Security"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Security Analyst Role: Perform vulnerability assessments, penetration testing, and network security audits. Analyze threats using SIEM tools, investigate security logs with Wireshark, and write automation scripts in Python. Key required skills: Metasploit, Cryptography, Linux, Firewalls, Vulnerability Assessment, SIEM, Cyber Security. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_082",
+    "title": "Information Security Engineer",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Penetration Testing",
+      "Metasploit",
+      "SIEM",
+      "Cyber Security",
+      "Wireshark",
+      "Linux",
+      "Python"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Information Security Engineer Role: Protect corporate digital assets by conducting security audits, configuring firewalls, implementing cryptographic standards, and performing ethical hacking exercises on web/cloud infrastructure. Key required skills: Penetration Testing, Metasploit, SIEM, Cyber Security, Wireshark, Linux, Python. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_083",
+    "title": "Penetration Tester",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Vulnerability Assessment",
+      "Cryptography",
+      "Firewalls",
+      "Cyber Security",
+      "Penetration Testing",
+      "Network Security",
+      "Linux"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Penetration Tester Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Vulnerability Assessment, Cryptography, Firewalls, Cyber Security, Penetration Testing, Network Security, Linux. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_084",
+    "title": "SOC Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Penetration Testing",
+      "Cyber Security",
+      "Python",
+      "Network Security",
+      "Cryptography",
+      "Linux",
+      "Vulnerability Assessment",
+      "SIEM"
+    ],
+    "experience_level": "Internship",
+    "description_text": "SOC Analyst Role: Monitor security event logs, analyze malware samples, enforce network protocol compliance, and develop security incident response protocols. Key required skills: Penetration Testing, Cyber Security, Python, Network Security, Cryptography, Linux, Vulnerability Assessment, SIEM. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_085",
+    "title": "Security Analyst",
+    "domain_category": "Cyber Security & InfoSec",
+    "skills": [
+      "Firewalls",
+      "Network Security",
+      "Cryptography",
+      "Linux",
+      "SIEM"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Security Analyst Role: Protect corporate digital assets by conducting security audits, configuring firewalls, implementing cryptographic standards, and performing ethical hacking exercises on web/cloud infrastructure. Key required skills: Firewalls, Network Security, Cryptography, Linux, SIEM. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_086",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "ETL",
+      "BigQuery",
+      "Apache Spark",
+      "Data Warehousing",
+      "Snowflake",
+      "dbt"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Analytics Engineer Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: ETL, BigQuery, Apache Spark, Data Warehousing, Snowflake, dbt. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_087",
+    "title": "Big Data Specialist",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "BigQuery",
+      "dbt",
+      "SQL",
+      "Kafka",
+      "Python",
+      "Apache Spark",
+      "ETL"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Big Data Specialist Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: BigQuery, dbt, SQL, Kafka, Python, Apache Spark, ETL. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_088",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Python",
+      "Data Modeling",
+      "BigQuery",
+      "Data Warehousing",
+      "Airflow",
+      "Apache Spark",
+      "Snowflake",
+      "dbt"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Analytics Engineer Role: Data Engineer to construct automated ingestion pipelines, clean structured and unstructured data sources, and ensure high data quality for business intelligence dashboards. Key required skills: Python, Data Modeling, BigQuery, Data Warehousing, Airflow, Apache Spark, Snowflake, dbt. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_089",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "ETL",
+      "Data Warehousing",
+      "Kafka",
+      "Apache Spark",
+      "Airflow",
+      "SQL",
+      "Snowflake"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Analytics Engineer Role: Build scalable ETL/ELT pipelines using SQL, Python, Apache Spark, and dbt. Data warehousing experience with Snowflake or BigQuery and orchestration with Apache Airflow required. Key required skills: ETL, Data Warehousing, Kafka, Apache Spark, Airflow, SQL, Snowflake. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_090",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "SQL",
+      "Apache Spark",
+      "Data Warehousing",
+      "Kafka",
+      "Data Modeling",
+      "Airflow",
+      "ETL",
+      "dbt"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Analytics Engineer Role: Build scalable ETL/ELT pipelines using SQL, Python, Apache Spark, and dbt. Data warehousing experience with Snowflake or BigQuery and orchestration with Apache Airflow required. Key required skills: SQL, Apache Spark, Data Warehousing, Kafka, Data Modeling, Airflow, ETL, dbt. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_091",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Python",
+      "ETL",
+      "BigQuery",
+      "SQL",
+      "dbt",
+      "Kafka",
+      "Snowflake",
+      "Apache Spark"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Data Engineer Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: Python, ETL, BigQuery, SQL, dbt, Kafka, Snowflake, Apache Spark. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_092",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Data Modeling",
+      "Snowflake",
+      "ETL",
+      "Apache Spark",
+      "Python"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Data Engineer Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: Data Modeling, Snowflake, ETL, Apache Spark, Python. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_093",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "dbt",
+      "Python",
+      "Kafka",
+      "Data Warehousing",
+      "Snowflake"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Data Engineer Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: dbt, Python, Kafka, Data Warehousing, Snowflake. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_094",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Apache Spark",
+      "Data Modeling",
+      "Snowflake",
+      "Data Warehousing",
+      "dbt",
+      "Python"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Analytics Engineer Role: Data Engineer to construct automated ingestion pipelines, clean structured and unstructured data sources, and ensure high data quality for business intelligence dashboards. Key required skills: Apache Spark, Data Modeling, Snowflake, Data Warehousing, dbt, Python. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_095",
+    "title": "ETL Developer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Data Modeling",
+      "dbt",
+      "ETL",
+      "Kafka",
+      "Python",
+      "SQL",
+      "Airflow",
+      "Apache Spark"
+    ],
+    "experience_level": "Internship",
+    "description_text": "ETL Developer Role: Build scalable ETL/ELT pipelines using SQL, Python, Apache Spark, and dbt. Data warehousing experience with Snowflake or BigQuery and orchestration with Apache Airflow required. Key required skills: Data Modeling, dbt, ETL, Kafka, Python, SQL, Airflow, Apache Spark. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_096",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Data Modeling",
+      "Data Warehousing",
+      "dbt",
+      "ETL",
+      "Kafka",
+      "Apache Spark",
+      "Snowflake"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Analytics Engineer Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: Data Modeling, Data Warehousing, dbt, ETL, Kafka, Apache Spark, Snowflake. Experience: Associate."
+  },
+  {
+    "job_id": "JOB_097",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Kafka",
+      "Python",
+      "dbt",
+      "BigQuery",
+      "SQL",
+      "Data Modeling",
+      "Airflow",
+      "Apache Spark"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Data Engineer Role: Build scalable ETL/ELT pipelines using SQL, Python, Apache Spark, and dbt. Data warehousing experience with Snowflake or BigQuery and orchestration with Apache Airflow required. Key required skills: Kafka, Python, dbt, BigQuery, SQL, Data Modeling, Airflow, Apache Spark. Experience: Entry-Level."
+  },
+  {
+    "job_id": "JOB_098",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "dbt",
+      "Airflow",
+      "Python",
+      "Kafka",
+      "BigQuery",
+      "Snowflake",
+      "Data Modeling",
+      "Apache Spark"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Data Engineer Role: Data Engineer to construct automated ingestion pipelines, clean structured and unstructured data sources, and ensure high data quality for business intelligence dashboards. Key required skills: dbt, Airflow, Python, Kafka, BigQuery, Snowflake, Data Modeling, Apache Spark. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_099",
+    "title": "Data Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "dbt",
+      "ETL",
+      "SQL",
+      "Python",
+      "Kafka"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Data Engineer Role: Data Engineer to construct automated ingestion pipelines, clean structured and unstructured data sources, and ensure high data quality for business intelligence dashboards. Key required skills: dbt, ETL, SQL, Python, Kafka. Experience: Junior."
+  },
+  {
+    "job_id": "JOB_100",
+    "title": "Big Data Specialist",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Apache Spark",
+      "Airflow",
+      "Data Modeling",
+      "Python",
+      "dbt",
+      "Data Warehousing",
+      "BigQuery",
+      "Snowflake"
+    ],
+    "experience_level": "Entry-Level",
+    "description_text": "Big Data Specialist Role: Design robust data architectures, write optimized SQL queries, manage streaming datasets with Kafka, and maintain data warehouse schema modeling. Key required skills: Apache Spark, Airflow, Data Modeling, Python, dbt, Data Warehousing, BigQuery, Snowflake. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_101",
+    "title": "Big Data Specialist",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "Snowflake",
+      "ETL",
+      "Data Modeling",
+      "Apache Spark",
+      "Data Warehousing",
+      "BigQuery",
+      "Airflow"
+    ],
+    "experience_level": "Internship",
+    "description_text": "Big Data Specialist Role: Data Engineer to construct automated ingestion pipelines, clean structured and unstructured data sources, and ensure high data quality for business intelligence dashboards. Key required skills: Snowflake, ETL, Data Modeling, Apache Spark, Data Warehousing, BigQuery, Airflow. Experience: Internship."
+  },
+  {
+    "job_id": "JOB_102",
+    "title": "Analytics Engineer",
+    "domain_category": "Data & Analytics Engineering",
+    "skills": [
+      "BigQuery",
+      "Snowflake",
+      "ETL",
+      "Python",
+      "Data Modeling",
+      "Data Warehousing",
+      "Apache Spark"
+    ],
+    "experience_level": "Junior",
+    "description_text": "Analytics Engineer Role: Build scalable ETL/ELT pipelines using SQL, Python, Apache Spark, and dbt. Data warehousing experience with Snowflake or BigQuery and orchestration with Apache Airflow required. Key required skills: BigQuery, Snowflake, ETL, Python, Data Modeling, Data Warehousing, Apache Spark. Experience: Associate."
+  }
+]

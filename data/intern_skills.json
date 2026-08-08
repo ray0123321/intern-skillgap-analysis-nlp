@@ -1,0 +1,815 @@
+[
+  {
+    "intern_id": "INT_001",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Bash": 4,
+      "Terraform": 1,
+      "Node.js": 4,
+      "Prometheus": 3,
+      "GraphQL": 4
+    },
+    "resume_text": "Alex Rivera is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Bash, Terraform, Node.js, Prometheus, GraphQL. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.78
+  },
+  {
+    "intern_id": "INT_002",
+    "name": "Brenda Chen",
+    "email": "brenda.chen@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Jest": 2,
+      "Penetration Testing": 3,
+      "React": 2,
+      "Express": 3
+    },
+    "resume_text": "Brenda Chen is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Jest, Penetration Testing, React, Express. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.68
+  },
+  {
+    "intern_id": "INT_003",
+    "name": "Carlos Gomez",
+    "email": "carlos.gomez@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "BigQuery": 2,
+      "CSS3": 1,
+      "Kafka": 4,
+      "Python": 2,
+      "Data Warehousing": 2,
+      "Apache Spark": 3,
+      "GraphQL": 3
+    },
+    "resume_text": "Carlos Gomez is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in BigQuery, CSS3, Kafka, Python, Data Warehousing, Apache Spark, GraphQL. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.85
+  },
+  {
+    "intern_id": "INT_004",
+    "name": "Diana Patel",
+    "email": "diana.patel@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Jest": 3,
+      "Git": 1,
+      "REST API": 4,
+      "React": 2,
+      "Penetration Testing": 4,
+      "Python": 4,
+      "HTML5": 3
+    },
+    "resume_text": "Diana Patel is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Jest, Git, REST API, React, Penetration Testing, Python, HTML5. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.57
+  },
+  {
+    "intern_id": "INT_005",
+    "name": "Ethan Hunt",
+    "email": "ethan.hunt@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Docker": 2,
+      "CloudWatch": 2,
+      "Terraform": 2,
+      "GraphQL": 2
+    },
+    "resume_text": "Ethan Hunt is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Docker, CloudWatch, Terraform, GraphQL. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.65
+  },
+  {
+    "intern_id": "INT_006",
+    "name": "Fiona Wang",
+    "email": "fiona.wang@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "TypeScript": 1,
+      "Deep Learning": 2,
+      "Pandas": 2,
+      "TensorFlow": 3
+    },
+    "resume_text": "Fiona Wang is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in TypeScript, Deep Learning, Pandas, TensorFlow. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.56
+  },
+  {
+    "intern_id": "INT_007",
+    "name": "George Miller",
+    "email": "george.miller@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Docker": 3,
+      "PostgreSQL": 2,
+      "Python": 3,
+      "Ansible": 3
+    },
+    "resume_text": "George Miller is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Docker, PostgreSQL, Python, Ansible. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.71
+  },
+  {
+    "intern_id": "INT_008",
+    "name": "Hannah Smith",
+    "email": "hannah.smith@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Deep Learning": 3,
+      "Pandas": 3,
+      "Data Visualization": 3,
+      "Python": 4,
+      "Cyber Security": 1,
+      "Feature Engineering": 3
+    },
+    "resume_text": "Hannah Smith is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Deep Learning, Pandas, Data Visualization, Python, Cyber Security, Feature Engineering. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.58
+  },
+  {
+    "intern_id": "INT_009",
+    "name": "Ian Wright",
+    "email": "ian.wright@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "TypeScript": 3,
+      "Mobile UI/UX": 2,
+      "GraphQL": 3,
+      "Docker": 3,
+      "JavaScript": 3,
+      "iOS": 3
+    },
+    "resume_text": "Ian Wright is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in TypeScript, Mobile UI/UX, GraphQL, Docker, JavaScript, iOS. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.83
+  },
+  {
+    "intern_id": "INT_010",
+    "name": "Julia Roberts",
+    "email": "julia.roberts@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Bash": 3,
+      "CSS3": 3,
+      "Git": 4,
+      "REST API": 1,
+      "PostgreSQL": 2,
+      "Linux": 3,
+      "Node.js": 2
+    },
+    "resume_text": "Julia Roberts is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Bash, CSS3, Git, REST API, PostgreSQL, Linux, Node.js. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.68
+  },
+  {
+    "intern_id": "INT_011",
+    "name": "Kevin Zhang",
+    "email": "kevin.zhang@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Data Visualization": 2,
+      "Wireshark": 3,
+      "SQL": 1,
+      "Machine Learning": 3,
+      "PyTorch": 3,
+      "Feature Engineering": 3
+    },
+    "resume_text": "Kevin Zhang is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Data Visualization, Wireshark, SQL, Machine Learning, PyTorch, Feature Engineering. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.78
+  },
+  {
+    "intern_id": "INT_012",
+    "name": "Laura Kim",
+    "email": "laura.kim@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "React Native": 3,
+      "Python": 3,
+      "Snowflake": 2,
+      "JavaScript": 2,
+      "Firebase": 4,
+      "iOS": 3
+    },
+    "resume_text": "Laura Kim is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in React Native, Python, Snowflake, JavaScript, Firebase, iOS. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.85
+  },
+  {
+    "intern_id": "INT_013",
+    "name": "Michael Brown",
+    "email": "michael.brown@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Kubernetes": 4,
+      "Kafka": 4,
+      "Linux": 2,
+      "Terraform": 1,
+      "Python": 2,
+      "CI/CD": 2
+    },
+    "resume_text": "Michael Brown is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Kubernetes, Kafka, Linux, Terraform, Python, CI/CD. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.87
+  },
+  {
+    "intern_id": "INT_014",
+    "name": "Nina Davis",
+    "email": "nina.davis@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Docker": 4,
+      "Network Security": 4,
+      "Networking": 1,
+      "CloudWatch": 1
+    },
+    "resume_text": "Nina Davis is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Docker, Network Security, Networking, CloudWatch. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.68
+  },
+  {
+    "intern_id": "INT_015",
+    "name": "Oscar Garcia",
+    "email": "oscar.garcia@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Swift": 2,
+      "TypeScript": 2,
+      "SQL": 3,
+      "JavaScript": 1,
+      "Firebase": 4
+    },
+    "resume_text": "Oscar Garcia is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in Swift, TypeScript, SQL, JavaScript, Firebase. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.65
+  },
+  {
+    "intern_id": "INT_016",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Kafka": 1,
+      "Data Modeling": 2,
+      "ETL": 3,
+      "Data Warehousing": 1,
+      "Ansible": 2
+    },
+    "resume_text": "Priya Sharma is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in Kafka, Data Modeling, ETL, Data Warehousing, Ansible. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.73
+  },
+  {
+    "intern_id": "INT_017",
+    "name": "Quinn Taylor",
+    "email": "quinn.taylor@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Python": 2,
+      "CloudWatch": 2,
+      "Terraform": 2,
+      "Node.js": 2
+    },
+    "resume_text": "Quinn Taylor is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Python, CloudWatch, Terraform, Node.js. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.66
+  },
+  {
+    "intern_id": "INT_018",
+    "name": "Rachel Green",
+    "email": "rachel.green@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "CSS3": 3,
+      "Git": 4,
+      "TypeScript": 2,
+      "Docker": 1,
+      "SIEM": 3
+    },
+    "resume_text": "Rachel Green is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in CSS3, Git, TypeScript, Docker, SIEM. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.7
+  },
+  {
+    "intern_id": "INT_019",
+    "name": "Sam Wilson",
+    "email": "sam.wilson@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Data Modeling": 2,
+      "TypeScript": 1,
+      "Data Warehousing": 3,
+      "Mobile UI/UX": 1,
+      "iOS": 2
+    },
+    "resume_text": "Sam Wilson is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in Data Modeling, TypeScript, Data Warehousing, Mobile UI/UX, iOS. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.83
+  },
+  {
+    "intern_id": "INT_020",
+    "name": "Tina Fey",
+    "email": "tina.fey@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Vulnerability Assessment": 3,
+      "Wireshark": 1,
+      "Penetration Testing": 3,
+      "SQL": 2,
+      "Metasploit": 4,
+      "NLP": 2
+    },
+    "resume_text": "Tina Fey is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Vulnerability Assessment, Wireshark, Penetration Testing, SQL, Metasploit, NLP. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.67
+  },
+  {
+    "intern_id": "INT_021",
+    "name": "Umar Khan",
+    "email": "umar.khan@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Python": 2,
+      "Deep Learning": 4,
+      "PyTorch": 4,
+      "Feature Engineering": 2
+    },
+    "resume_text": "Umar Khan is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Python, Deep Learning, PyTorch, Feature Engineering. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.59
+  },
+  {
+    "intern_id": "INT_022",
+    "name": "Valerie Scott",
+    "email": "valerie.scott@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Docker": 4,
+      "CloudWatch": 3,
+      "Jest": 3,
+      "Networking": 3
+    },
+    "resume_text": "Valerie Scott is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Docker, CloudWatch, Jest, Networking. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.79
+  },
+  {
+    "intern_id": "INT_023",
+    "name": "Will Jackson",
+    "email": "will.jackson@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Vulnerability Assessment": 3,
+      "Firewalls": 4,
+      "Wireshark": 2,
+      "Penetration Testing": 2,
+      "Android": 3,
+      "SIEM": 1
+    },
+    "resume_text": "Will Jackson is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Vulnerability Assessment, Firewalls, Wireshark, Penetration Testing, Android, SIEM. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.73
+  },
+  {
+    "intern_id": "INT_024",
+    "name": "Xavier Lopez",
+    "email": "xavier.lopez@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Bash": 1,
+      "AWS": 3,
+      "Linux": 3,
+      "Prometheus": 3,
+      "Firebase": 3
+    },
+    "resume_text": "Xavier Lopez is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Bash, AWS, Linux, Prometheus, Firebase. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.75
+  },
+  {
+    "intern_id": "INT_025",
+    "name": "Yara Ahmed",
+    "email": "yara.ahmed@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Kafka": 1,
+      "ETL": 3,
+      "Docker": 1,
+      "Ansible": 2,
+      "Airflow": 4
+    },
+    "resume_text": "Yara Ahmed is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in Kafka, ETL, Docker, Ansible, Airflow. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.73
+  },
+  {
+    "intern_id": "INT_026",
+    "name": "Zack Snyder",
+    "email": "zack.snyder@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Machine Learning": 2,
+      "Scikit-Learn": 2,
+      "Data Visualization": 3,
+      "Wireshark": 3
+    },
+    "resume_text": "Zack Snyder is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Machine Learning, Scikit-Learn, Data Visualization, Wireshark. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.79
+  },
+  {
+    "intern_id": "INT_027",
+    "name": "Amy Adams",
+    "email": "amy.adams@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Jest": 4,
+      "dbt": 4,
+      "Git": 3,
+      "Data Modeling": 2,
+      "Docker": 2,
+      "JavaScript": 1,
+      "HTML5": 3
+    },
+    "resume_text": "Amy Adams is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Jest, dbt, Git, Data Modeling, Docker, JavaScript, HTML5. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.87
+  },
+  {
+    "intern_id": "INT_028",
+    "name": "Ben Affleck",
+    "email": "ben.affleck@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Kubernetes": 2,
+      "Networking": 4,
+      "Python": 4,
+      "TypeScript": 4,
+      "Prometheus": 4,
+      "Docker": 3,
+      "Firebase": 1
+    },
+    "resume_text": "Ben Affleck is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Kubernetes, Networking, Python, TypeScript, Prometheus, Docker, Firebase. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.73
+  },
+  {
+    "intern_id": "INT_029",
+    "name": "Chloe Bennett",
+    "email": "chloe.bennett@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "TypeScript": 2,
+      "Python": 2,
+      "Node.js": 1,
+      "Express": 2,
+      "HTML5": 1
+    },
+    "resume_text": "Chloe Bennett is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in TypeScript, Python, Node.js, Express, HTML5. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.78
+  },
+  {
+    "intern_id": "INT_030",
+    "name": "David Miller",
+    "email": "david.miller@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Metasploit": 3,
+      "Network Security": 2,
+      "Data Visualization": 4,
+      "Vulnerability Assessment": 3
+    },
+    "resume_text": "David Miller is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Metasploit, Network Security, Data Visualization, Vulnerability Assessment. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.69
+  },
+  {
+    "intern_id": "INT_031",
+    "name": "Emma Watson",
+    "email": "emma.watson@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "dbt": 3,
+      "Kafka": 2,
+      "Linux": 2,
+      "ETL": 4,
+      "Snowflake": 3,
+      "Airflow": 3
+    },
+    "resume_text": "Emma Watson is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in dbt, Kafka, Linux, ETL, Snowflake, Airflow. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.82
+  },
+  {
+    "intern_id": "INT_032",
+    "name": "Frank Castle",
+    "email": "frank.castle@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Swift": 3,
+      "REST API": 2,
+      "Kotlin": 3,
+      "Mobile UI/UX": 1,
+      "Prometheus": 4,
+      "iOS": 3
+    },
+    "resume_text": "Frank Castle is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in Swift, REST API, Kotlin, Mobile UI/UX, Prometheus, iOS. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.65
+  },
+  {
+    "intern_id": "INT_033",
+    "name": "Grace Hopper",
+    "email": "grace.hopper@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Deep Learning": 2,
+      "TensorFlow": 1,
+      "PostgreSQL": 3,
+      "Machine Learning": 1,
+      "NLP": 3
+    },
+    "resume_text": "Grace Hopper is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Deep Learning, TensorFlow, PostgreSQL, Machine Learning, NLP. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.63
+  },
+  {
+    "intern_id": "INT_034",
+    "name": "Harry Potter",
+    "email": "harry.potter@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Swift": 1,
+      "React": 2,
+      "Node.js": 3,
+      "JavaScript": 4,
+      "HTML5": 2
+    },
+    "resume_text": "Harry Potter is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Swift, React, Node.js, JavaScript, HTML5. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.71
+  },
+  {
+    "intern_id": "INT_035",
+    "name": "Isla Fisher",
+    "email": "isla.fisher@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Kubernetes": 2,
+      "React": 2,
+      "Node.js": 1,
+      "CI/CD": 1,
+      "Express": 2
+    },
+    "resume_text": "Isla Fisher is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Kubernetes, React, Node.js, CI/CD, Express. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.77
+  },
+  {
+    "intern_id": "INT_036",
+    "name": "Jack Ryan",
+    "email": "jack.ryan@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Cryptography": 2,
+      "Firewalls": 3,
+      "Penetration Testing": 1,
+      "Cyber Security": 3,
+      "Apache Spark": 2
+    },
+    "resume_text": "Jack Ryan is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Cryptography, Firewalls, Penetration Testing, Cyber Security, Apache Spark. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.75
+  },
+  {
+    "intern_id": "INT_037",
+    "name": "Karen Gillan",
+    "email": "karen.gillan@university.edu",
+    "target_domain": "Data Science & Machine Learning",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Deep Learning": 3,
+      "Data Visualization": 1,
+      "Data Warehousing": 4,
+      "NumPy": 3,
+      "PyTorch": 2,
+      "Feature Engineering": 2
+    },
+    "resume_text": "Karen Gillan is a passionate computer science graduate aiming for a role in Data Science & Machine Learning. Proficient in Deep Learning, Data Visualization, Data Warehousing, NumPy, PyTorch, Feature Engineering. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.67
+  },
+  {
+    "intern_id": "INT_038",
+    "name": "Liam Neeson",
+    "email": "liam.neeson@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "Git": 2,
+      "Node.js": 3,
+      "SQL": 2,
+      "Apache Spark": 4,
+      "Docker": 2,
+      "JavaScript": 4
+    },
+    "resume_text": "Liam Neeson is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Git, Node.js, SQL, Apache Spark, Docker, JavaScript. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.89
+  },
+  {
+    "intern_id": "INT_039",
+    "name": "Mia Khalifa",
+    "email": "mia.khalifa@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "React Native": 2,
+      "AWS": 1,
+      "Swift": 2,
+      "Flutter": 2,
+      "Android": 3,
+      "Redux": 3
+    },
+    "resume_text": "Mia Khalifa is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in React Native, AWS, Swift, Flutter, Android, Redux. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.64
+  },
+  {
+    "intern_id": "INT_040",
+    "name": "Nathan Drake",
+    "email": "nathan.drake@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Kubernetes": 3,
+      "dbt": 3,
+      "Linux": 4,
+      "Python": 3,
+      "SQL": 3
+    },
+    "resume_text": "Nathan Drake is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in Kubernetes, dbt, Linux, Python, SQL. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.89
+  },
+  {
+    "intern_id": "INT_041",
+    "name": "Olivia Wilde",
+    "email": "olivia.wilde@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "JavaScript": 3,
+      "REST API": 2,
+      "TypeScript": 3,
+      "Flutter": 2,
+      "Metasploit": 2,
+      "Android": 1
+    },
+    "resume_text": "Olivia Wilde is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in JavaScript, REST API, TypeScript, Flutter, Metasploit, Android. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.66
+  },
+  {
+    "intern_id": "INT_042",
+    "name": "Peter Parker",
+    "email": "peter.parker@university.edu",
+    "target_domain": "Cloud & DevOps Infrastructure",
+    "degree": "B.S. Computer Science",
+    "skills": {
+      "Bash": 4,
+      "Cryptography": 2,
+      "Python": 3,
+      "CloudWatch": 3,
+      "Cyber Security": 2,
+      "Docker": 4
+    },
+    "resume_text": "Peter Parker is a passionate computer science graduate aiming for a role in Cloud & DevOps Infrastructure. Proficient in Bash, Cryptography, Python, CloudWatch, Cyber Security, Docker. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.58
+  },
+  {
+    "intern_id": "INT_043",
+    "name": "Queen Latifah",
+    "email": "queen.latifah@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "BigQuery": 1,
+      "TensorFlow": 2,
+      "Python": 4,
+      "SQL": 2,
+      "Apache Spark": 2
+    },
+    "resume_text": "Queen Latifah is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in BigQuery, TensorFlow, Python, SQL, Apache Spark. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.88
+  },
+  {
+    "intern_id": "INT_044",
+    "name": "Ryan Reynolds",
+    "email": "ryan.reynolds@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Vulnerability Assessment": 2,
+      "Git": 3,
+      "PostgreSQL": 2,
+      "TypeScript": 3,
+      "GraphQL": 2,
+      "HTML5": 4
+    },
+    "resume_text": "Ryan Reynolds is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in Vulnerability Assessment, Git, PostgreSQL, TypeScript, GraphQL, HTML5. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.64
+  },
+  {
+    "intern_id": "INT_045",
+    "name": "Sarah Connor",
+    "email": "sarah.connor@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "BigQuery": 2,
+      "PostgreSQL": 2,
+      "TypeScript": 4,
+      "Docker": 3,
+      "Snowflake": 2
+    },
+    "resume_text": "Sarah Connor is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in BigQuery, PostgreSQL, TypeScript, Docker, Snowflake. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.79
+  },
+  {
+    "intern_id": "INT_046",
+    "name": "Tom Holland",
+    "email": "tom.holland@university.edu",
+    "target_domain": "Mobile Application Development",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Swift": 1,
+      "Redux": 4,
+      "Cryptography": 2,
+      "Flutter": 4
+    },
+    "resume_text": "Tom Holland is a passionate computer science graduate aiming for a role in Mobile Application Development. Proficient in Swift, Redux, Cryptography, Flutter. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.8
+  },
+  {
+    "intern_id": "INT_047",
+    "name": "Uma Thurman",
+    "email": "uma.thurman@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "Kubernetes": 2,
+      "Network Security": 2,
+      "Linux": 2,
+      "Firewalls": 3,
+      "Metasploit": 1,
+      "SIEM": 2
+    },
+    "resume_text": "Uma Thurman is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Kubernetes, Network Security, Linux, Firewalls, Metasploit, SIEM. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.71
+  },
+  {
+    "intern_id": "INT_048",
+    "name": "Victor Stone",
+    "email": "victor.stone@university.edu",
+    "target_domain": "Cyber Security & InfoSec",
+    "degree": "B.S. Software Engineering",
+    "skills": {
+      "Bash": 3,
+      "Vulnerability Assessment": 3,
+      "Networking": 3,
+      "Firewalls": 3,
+      "Penetration Testing": 1
+    },
+    "resume_text": "Victor Stone is a passionate computer science graduate aiming for a role in Cyber Security & InfoSec. Proficient in Bash, Vulnerability Assessment, Networking, Firewalls, Penetration Testing. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.89
+  },
+  {
+    "intern_id": "INT_049",
+    "name": "Wanda Maximoff",
+    "email": "wanda.maximoff@university.edu",
+    "target_domain": "Data & Analytics Engineering",
+    "degree": "B.Tech Information Technology",
+    "skills": {
+      "BigQuery": 4,
+      "ETL": 3,
+      "Ansible": 2,
+      "Data Modeling": 2
+    },
+    "resume_text": "Wanda Maximoff is a passionate computer science graduate aiming for a role in Data & Analytics Engineering. Proficient in BigQuery, ETL, Ansible, Data Modeling. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.73
+  },
+  {
+    "intern_id": "INT_050",
+    "name": "Yolanda Adams",
+    "email": "yolanda.adams@university.edu",
+    "target_domain": "Full-Stack Web Engineering",
+    "degree": "B.S. Data Science",
+    "skills": {
+      "TypeScript": 4,
+      "REST API": 2,
+      "Linux": 2,
+      "Express": 3
+    },
+    "resume_text": "Yolanda Adams is a passionate computer science graduate aiming for a role in Full-Stack Web Engineering. Proficient in TypeScript, REST API, Linux, Express. Looking to upskill in modern industry standards and hands-on production toolings.",
+    "confidence_score": 0.85
+  }
+]

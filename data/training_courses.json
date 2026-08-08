@@ -1,0 +1,192 @@
+[
+  {
+    "course_id": "CRS_WEB_01",
+    "skill_name": "React",
+    "title": "Mastering React 18 & Modern State Management",
+    "provider": "TechAcademy",
+    "duration_hours": 24,
+    "difficulty": "Intermediate",
+    "description": "Deep dive into React functional components, Hooks, Context API, Redux Toolkit, and performance optimization.",
+    "project_name": "E-Commerce Dashboard SPA"
+  },
+  {
+    "course_id": "CRS_WEB_02",
+    "skill_name": "Node.js",
+    "title": "Backend Engineering with Node.js & Express",
+    "provider": "NodeMasters",
+    "duration_hours": 30,
+    "difficulty": "Intermediate",
+    "description": "Build production-ready RESTful APIs, JWT authentication, rate limiting, and PostgreSQL integration.",
+    "project_name": "Microservices Authentication Gateway"
+  },
+  {
+    "course_id": "CRS_WEB_03",
+    "skill_name": "TypeScript",
+    "title": "TypeScript Fundamentals to Advanced Systems",
+    "provider": "Frontend Masters",
+    "duration_hours": 15,
+    "difficulty": "Beginner-Intermediate",
+    "description": "Learn strict typing, generics, interfaces, decorators, and integrating TypeScript into full-stack web applications.",
+    "project_name": "Typed Data Modeling Library"
+  },
+  {
+    "course_id": "CRS_WEB_04",
+    "skill_name": "GraphQL",
+    "title": "Modern GraphQL API Design with Apollo",
+    "provider": "GraphQL Institute",
+    "duration_hours": 18,
+    "difficulty": "Intermediate",
+    "description": "Schema definition language, query resolvers, mutations, subscriptions, and caching strategies.",
+    "project_name": "Real-time Collaboration Platform API"
+  },
+  {
+    "course_id": "CRS_ML_01",
+    "skill_name": "PyTorch",
+    "title": "Deep Learning with PyTorch in Practice",
+    "provider": "DeepLearning.AI",
+    "duration_hours": 35,
+    "difficulty": "Intermediate-Advanced",
+    "description": "Train neural networks, CNNs, RNNs, and Transformers using PyTorch framework with GPU acceleration.",
+    "project_name": "Image Classification & NLP Classifier"
+  },
+  {
+    "course_id": "CRS_ML_02",
+    "skill_name": "Scikit-Learn",
+    "title": "Applied Machine Learning & Clustering Algorithms",
+    "provider": "ML Academy",
+    "duration_hours": 20,
+    "difficulty": "Intermediate",
+    "description": "Supervised & unsupervised learning, TF-IDF vectorization, K-Means clustering, PCA, and model evaluation.",
+    "project_name": "Customer Segmentation & Clustering Pipeline"
+  },
+  {
+    "course_id": "CRS_ML_03",
+    "skill_name": "NLP",
+    "title": "Natural Language Processing with Transformers & TF-IDF",
+    "provider": "NLP Edge",
+    "duration_hours": 28,
+    "difficulty": "Intermediate",
+    "description": "Text pre-processing, TF-IDF feature extraction, sentiment analysis, named entity recognition, and BERT fine-tuning.",
+    "project_name": "Resume & Job Description Skill Matcher"
+  },
+  {
+    "course_id": "CRS_ML_04",
+    "skill_name": "Feature Engineering",
+    "title": "Advanced Feature Engineering for Machine Learning",
+    "provider": "DataCamp",
+    "duration_hours": 16,
+    "difficulty": "Intermediate",
+    "description": "Categorical encoding, numerical scaling, dimensionality reduction, missing data imputation, and automated feature selection.",
+    "project_name": "Predictive Analytics Feature Pipeline"
+  },
+  {
+    "course_id": "CRS_DO_01",
+    "skill_name": "Kubernetes",
+    "title": "Kubernetes Container Orchestration Mastery",
+    "provider": "Cloud Native Academy",
+    "duration_hours": 32,
+    "difficulty": "Intermediate-Advanced",
+    "description": "Deploying, scaling, and managing containerized applications with Pods, Deployments, Services, and Helm charts.",
+    "project_name": "Production Kubernetes Cluster Deployment"
+  },
+  {
+    "course_id": "CRS_DO_02",
+    "skill_name": "AWS",
+    "title": "AWS Certified Solutions Architect Training",
+    "provider": "AWS Education",
+    "duration_hours": 40,
+    "difficulty": "Intermediate",
+    "description": "Core cloud architecture: EC2, S3, RDS, Lambda, VPC, IAM security, and auto-scaling infrastructure.",
+    "project_name": "Serverless Cloud Architecture Setup"
+  },
+  {
+    "course_id": "CRS_DO_03",
+    "skill_name": "Terraform",
+    "title": "Infrastructure as Code (IaC) with Terraform",
+    "provider": "HashiCorp Learn",
+    "duration_hours": 18,
+    "difficulty": "Intermediate",
+    "description": "Provision and manage cloud resources declaratively using Terraform modules and state management.",
+    "project_name": "Automated AWS Multi-Region Environment"
+  },
+  {
+    "course_id": "CRS_DO_04",
+    "skill_name": "CI/CD",
+    "title": "Building Production CI/CD Pipelines with GitHub Actions",
+    "provider": "DevOps Hub",
+    "duration_hours": 14,
+    "difficulty": "Beginner-Intermediate",
+    "description": "Automate testing, linting, Docker container builds, and cloud deployments with matrix workflows.",
+    "project_name": "End-to-End Automated Release Pipeline"
+  },
+  {
+    "course_id": "CRS_MOB_01",
+    "skill_name": "React Native",
+    "title": "Cross-Platform Mobile Apps with React Native",
+    "provider": "Mobile Devs",
+    "duration_hours": 25,
+    "difficulty": "Intermediate",
+    "description": "Build iOS and Android native apps with JavaScript/TypeScript, Expo, navigation, and device APIs.",
+    "project_name": "Fitness Tracking Mobile App"
+  },
+  {
+    "course_id": "CRS_MOB_02",
+    "skill_name": "Flutter",
+    "title": "Flutter & Dart Complete Mobile Bootcamp",
+    "provider": "AppBrewery",
+    "duration_hours": 28,
+    "difficulty": "Beginner-Intermediate",
+    "description": "Dart language fundamentals, widget hierarchy, state management with Bloc/Provider, and native integration.",
+    "project_name": "Real-time Messaging App"
+  },
+  {
+    "course_id": "CRS_SEC_01",
+    "skill_name": "Penetration Testing",
+    "title": "Practical Ethical Hacking & Penetration Testing",
+    "provider": "CyberSec Institute",
+    "duration_hours": 36,
+    "difficulty": "Intermediate-Advanced",
+    "description": "Reconnaissance, network scanning, vulnerability exploitation, web application security, and report writing.",
+    "project_name": "Vulnerable Machine Exploitation Lab"
+  },
+  {
+    "course_id": "CRS_SEC_02",
+    "skill_name": "Network Security",
+    "title": "Network Traffic Analysis & Security Protocols",
+    "provider": "InfoSec Academy",
+    "duration_hours": 22,
+    "difficulty": "Intermediate",
+    "description": "Packet inspection using Wireshark, firewalls setup, intrusion detection systems (IDS), and encryption standards.",
+    "project_name": "Network Threat Detection System"
+  },
+  {
+    "course_id": "CRS_DE_01",
+    "skill_name": "Apache Spark",
+    "title": "Big Data Processing with Apache Spark & PySpark",
+    "provider": "Databricks Academy",
+    "duration_hours": 30,
+    "difficulty": "Intermediate-Advanced",
+    "description": "Distributed computing, RDDs, DataFrames, Spark SQL, streaming data processing, and cluster optimization.",
+    "project_name": "Large-Scale Log Analysis Pipeline"
+  },
+  {
+    "course_id": "CRS_DE_02",
+    "skill_name": "Snowflake",
+    "title": "Snowflake Cloud Data Warehousing Essentials",
+    "provider": "Snowflake University",
+    "duration_hours": 16,
+    "difficulty": "Beginner-Intermediate",
+    "description": "Architecture, virtual warehouses, data sharing, JSON parsing, and loading bulk staging files.",
+    "project_name": "Cloud Enterprise Data Mart"
+  },
+  {
+    "course_id": "CRS_DE_03",
+    "skill_name": "Airflow",
+    "title": "Data Pipeline Orchestration with Apache Airflow",
+    "provider": "Astronomer",
+    "duration_hours": 20,
+    "difficulty": "Intermediate",
+    "description": "Writing DAGs, custom operators, task dependencies, sensor triggers, and scheduling production ETL workflows.",
+    "project_name": "Automated Daily Financial ETL Workflow"
+  }
+]
